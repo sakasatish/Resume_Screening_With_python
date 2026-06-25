@@ -1,5 +1,3 @@
 nltk
 gzip
-pickle
-streamlit
-re
+
